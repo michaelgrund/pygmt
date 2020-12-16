@@ -14,7 +14,7 @@ dependencies:
     - ipython
     - matplotlib
     - jupyter
-    - pytest
+    - pytest>=6.0
     - pytest-cov
     - pytest-mpl
     - coverage[toml]
@@ -23,7 +23,7 @@ dependencies:
     - docformatter
     - pylint
     - flake8
-    - sphinx=2.2.1
+    - sphinx
     - sphinx_rtd_theme=0.4.3
     - sphinx-gallery
     - nbsphinx

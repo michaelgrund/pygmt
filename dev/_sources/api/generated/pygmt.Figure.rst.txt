@@ -44,6 +44,10 @@ pygmt.Figure
     
     
     
+    Figure.inset
+    
+    
+    
     Figure.legend
     
     
@@ -68,7 +72,15 @@ pygmt.Figure
     
     
     
+    Figure.rose
+    
+    
+    
     Figure.savefig
+    
+    
+    
+    Figure.set_panel
     
     
     
@@ -77,6 +89,14 @@ pygmt.Figure
     
     
     Figure.show
+    
+    
+    
+    Figure.solar
+    
+    
+    
+    Figure.subplot
     
     
     
